@@ -1,0 +1,12 @@
+{
+    "botToken":"",
+    "clientId":"",
+    "statusUrl":"http://localhost:8080",
+    "imapUser":"",
+    "imapPassword":"",
+    "imapHost":"imap.gmail.com",
+    "imapPort":993,
+    "statusChannel":"",
+    "mailCheckInterval":60,
+    "mentionOnImportant":"@here"
+}

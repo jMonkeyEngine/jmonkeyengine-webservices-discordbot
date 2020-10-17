@@ -1,0 +1,30 @@
+{
+  "name": "jme-discordbot",
+  "version": "1.0.0",
+  "description": "A discord bot that notifies about services health and emails",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dompurify": "^2.2.0",
+    "imap-simple": "^5.0.0",
+    "jsdom": "^16.4.0",
+    "lodash": "^4.17.20",
+    "mailparser": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "turndown": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccardobl/jme-discordbot.git"
+  },
+  "author": "Riccardo Balbo",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/riccardobl/jme-discordbot/issues"
+  },
+  "homepage": "https://github.com/riccardobl/jme-discordbot#readme"
+}
