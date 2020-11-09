@@ -4,9 +4,18 @@
     "statusUrl":"http://localhost:8080",
     "imapUser":"",
     "imapPassword":"",
-    "imapHost":"imap.gmail.com",
+    "imapHost":"",
     "imapPort":993,
     "statusChannel":"",
+    "emailChannel":"",
     "mailCheckInterval":60,
-    "mentionOnImportant":"@here"
+    "mentionOnImportant":"@everyone",
+    "prefix":"!jme ",
+    "discourseApiEndpoint":"https://hub.jmonkeyengine.org",
+    "discourseApiUser":"system",
+    "discourseApiKey":"",
+    "openCollectiveApiEndPoint":"https://api.opencollective.com/graphql/v2",
+    "openCollectiveApiKey":"",
+    "backerHubBadgeId":113,
+    "contributorHubBadge":101
 }
