@@ -50,7 +50,7 @@ async function init(){
                 const command=commands[i];
                 if(command.cmd==cmd){
                     const reply=command.action(msg.content.substring(Config.prefix.length+cmd.length).trim(),msg);
-                    if(reply&&reply.trim()!=""){
+                    if(reply&&typeof reply==="string"){
                         msg.reply(reply);
                     }
                     break;
