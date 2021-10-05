@@ -35,7 +35,7 @@ async function init(){
         }
 
         discordClient.on('message', msg => {
-            if (msg.content.startsWith(!Config.prefix)) return;
+            if (!msg.content.startsWith(Config.prefix)) return;
             const cmd = msg.content.substring(Config.prefix.length).trim();
             if (cmd == "help") {
                 let reply="**Usage:**";
