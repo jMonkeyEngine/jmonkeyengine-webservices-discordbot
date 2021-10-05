@@ -8,7 +8,7 @@
     "dompurify": "^2.2.0",
     "imap-simple": "^5.0.0",
     "jsdom": "^16.4.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mailparser": "^3.0.0",
     "node-fetch": "^2.6.1",
     "turndown": "^7.0.0"
