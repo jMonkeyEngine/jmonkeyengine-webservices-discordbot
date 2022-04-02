@@ -10,7 +10,7 @@
     "jsdom": "^16.4.0",
     "lodash": "^4.17.21",
     "mailparser": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "turndown": "^7.0.0"
   },
   "devDependencies": {},
